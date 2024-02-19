@@ -6,7 +6,8 @@
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin](https://www.linkedin.com/in/amelia-mia-coutts-388a88283/)
+
+[linkedin]: [https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/amelia-mia-coutts-388a88283/)
 
 <!--
 **Mia-Coutts/Mia-Coutts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
