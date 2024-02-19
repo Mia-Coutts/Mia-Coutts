@@ -3,7 +3,7 @@
 <h2>👨‍💻Projects:</h2>
 
 - <b>Data Science Portfolio Class Project</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Senior Project and Portfolio](https://github.com/Mia-Coutts/Data-Science-Portfolio-Class)
 
 <h2> 🤳 Connect with me:</h2>
 
