@@ -7,8 +7,6 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="MiaCoutts | LinkedIn" width="22px" src="https://www.linkedin.com/in/amelia-mia-coutts-388a88283/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 [linkedin]: https://www.linkedin.com/in/amelia-mia-coutts-388a88283/
 
 <!--
