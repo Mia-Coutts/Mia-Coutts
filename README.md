@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mia! <br/><a href="https://github.com/Mia-Coutts">Student at Belmont University pursuing a Bachelor of Science, majoring in Data Science</a>
+<h1>Hi, I'm Mia! <br/><a href="https://github.com/Mia-Coutts">I Studied at Belmont University and graduated in May 2024 with a Bachelor of Science, majoring in Data Science</a>
 
 <h2>👨‍💻Projects:</h2>
 
